@@ -3,7 +3,7 @@ Cantonese and Mandarin Pronunciation Lookups from the Command-Line
 
 ### Example:
 
-<code>python chlookup/chlookup.py 鄧小平</code>
+<code>$python chlookup/chlookup.py 鄧小平</code>
 
 yields:
 
