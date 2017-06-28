@@ -103,10 +103,6 @@ def run_command_line():
 
 if __name__ == '__main__':
     run_command_line()
-    # cleaned_charstr, canto, mando = chlookup('你好吗')
 
-    # print_pronunciation_table(cleaned_charstr, canto, mando)
-
-    # run_command_line()
-
-    # print(args.accumulate(args.integers))
+    # example:
+    # python chlookup 鄧小平
