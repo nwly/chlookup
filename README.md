@@ -3,7 +3,7 @@ Cantonese and Mandarin Pronunciation Lookups from the Command-Line
 
 ### Example:
 
-<code>$python chlookup/chlookup.py 鄧小平</code>
+<code>$ python chlookup/chlookup.py 鄧小平</code>
 
 yields:
 
@@ -21,4 +21,4 @@ yields:
 ```
 
 
-The mneomic <code>真好笑 牛上樹</code> is for memorizing the 6 Cantonese intonations, listed in order.
+The mnemonic <code>真好笑 牛上樹</code> is for memorizing the 6 Cantonese intonations, listed in order.
